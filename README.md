@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sagi Weizmann - email@email_client.com
+Sagi Weizmann - sagiweizmann@gmail.com
 
 Project Link: [https://github.com/sagiweizmann/BasicMVC](https://github.com/sagiweizmann/BasicMVC)
 
