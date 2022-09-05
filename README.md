@@ -64,7 +64,7 @@
 
 Just a Basic MVC Pattern written in PHP
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 
@@ -72,7 +72,7 @@ Just a Basic MVC Pattern written in PHP
 
 * [![PHP][PHP]][PHP-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 
@@ -99,7 +99,7 @@ You will need the following items:
  
 3. Run the app
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -116,7 +116,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 
@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 
@@ -141,15 +141,15 @@ Project Link: [https://github.com/sagiweizmann/BasicMVC](https://github.com/sagi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/sagiweizmann/BasicMVC.svg?style=for-the-badge
 [contributors-url]: https://github.com/sagiweizmann/BasicMVC/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/sagiweizmann/BasicMVC.svg?style=for-the-badge
 [forks-url]: https://github.com/sagiweizmann/BasicMVC/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/sagiweizmann/BasicMVC.svg?style=for-the-badge
 [stars-url]: https://github.com/sagiweizmann/BasicMVC/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/sagiweizmann/BasicMVC.svg?style=for-the-badge
 [issues-url]: https://github.com/sagiweizmann/BasicMVC/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/sagiweizmann/BasicMVC.svg?style=for-the-badge
 [license-url]: https://github.com/sagiweizmann/BasicMVC/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sagiweizmann/
